@@ -6,6 +6,7 @@
 
 ## 🔹 About Me  
 - 🎓 **Master's Student in Computer Science** (MSc Informatics)  
+- 🎓 **Bachelor's Degree in Forestry & Natural Environment Management**  
 - 💼 **Background:** Former Army NCO, now transitioning into tech  
 - 📊 **Currently working as a Data Entry Agent**  
 
@@ -21,4 +22,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharias-polytseris/)  
 
 🚀 Let's connect and build something great!
+
 
