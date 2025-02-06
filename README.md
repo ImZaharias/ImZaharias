@@ -4,9 +4,11 @@
 
 🔹 **Currently:** Master's Student in Computer Science  
 🔹 **Tech Stack:** Java, JavaScript  
-🔹 **Background:** Former Army NCO, now in tech work as Data entry Agent 
-🔹 **Learning:** Software development
+🔹 **Background:** Former Army NCO, now transitioning into tech  
+🔹 **Experience:** Working as a Data Entry Agent  
+🔹 **Learning:** Software Development  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/zacharias-polytseris/)  
 
 Let's connect and build something great! 🚀  
+
