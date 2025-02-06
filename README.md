@@ -5,7 +5,8 @@
 🚀 **Aspiring Software Developer** | 🎓 MSc Informatics | 🎖 Ex-Special Forces  
 
 🔹 **Currently:** Master's Student in Computer Science  
-🔹 **Tech Stack:** Java, JavaScript  
+🔹 **Tech Stack:** Java, Spring Boot, JavaScript, Node.js, React
+🔹 **Tools & Frameworks:** Postman, Git, Selenium 
 🔹 **Background:** Former Army NCO, now transitioning into tech  
 🔹 **Experience:** Working as a Data Entry Agent  
 🔹 **Learning:** Software Development  
