@@ -1,6 +1,5 @@
 ![My Background](https://github.com/ImZaharias/ImZaharias/blob/main/background.jpg)
 
-
 # Hi, I'm Zacharias Polytseris! 👋  
 
 🚀 **Aspiring Software Developer** | 🎓 MSc Informatics | 🎖 Ex-Special Forces  
