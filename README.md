@@ -2,16 +2,23 @@
 
 # Hi, I'm Zacharias Polytseris! 👋  
 
-🚀 **Aspiring Software Developer** | 🎓 MSc Informatics | 🎖 Ex-Special Forces  
+🚀 **Aspiring Software Developer** | 🎓 MSc Informatics | 🎖 Former Special Forces  
 
-🔹 **Currently:** Master's Student in Computer Science  
-🔹 **Tech Stack:** Java, Spring Boot, JavaScript, Node.js, React
-🔹 **Tools & Frameworks:** Postman, Git, Selenium 
-🔹 **Background:** Former Army NCO, now transitioning into tech  
-🔹 **Experience:** Working as a Data Entry Agent  
-🔹 **Learning:** Software Development  
+## 🔹 About Me  
+- 🎓 **Master's Student in Computer Science** (MSc Informatics)  
+- 💼 **Background:** Former Army NCO, now transitioning into tech  
+- 📊 **Currently working as a Data Entry Agent**  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/zacharias-polytseris/)  
+## 🔹 Tech Stack & Tools  
+- **Languages & Frameworks:** Java, Spring Boot, JavaScript, Node.js, React  
+- **Development & Testing Tools:** Postman, Git, Selenium  
 
-Let's connect and build something great! 🚀  
+## 🔹 Learning & Goals  
+- 📚 **Expanding expertise** in software development and testing  
+- 🔍 Passionate about problem-solving, efficiency, and innovation  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharias-polytseris/)  
+
+🚀 Let's connect and build something great!
 
