@@ -1,4 +1,4 @@
-![My Background](https://github.com/ImZaharias/ImZaharias/blob/main/background.jpg)
+![My Background](https://github.com/ImZaharias/ImZaharias/blob/main/Background.jpg)
 
 # Hi, I'm Zacharias Polytseris! 👋  
 
