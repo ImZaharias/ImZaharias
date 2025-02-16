@@ -2,7 +2,7 @@
 
 # Hi, I'm Zacharias Polytseris! 👋  
 
-🚀 **Aspiring Software Developer** | 🎓 MSc Informatics | 🎖 Former Special Forces  
+🚀 **Aspiring Software Developer** | 🎓 MSc Informatics | 🎖 Former Armed Forces  
 
 ## 🔹 About Me  
 - 🎓 **Master's Student in Computer Science** (MSc Informatics)  
