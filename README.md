@@ -2,7 +2,7 @@
 
 # Hi, I'm Zacharias Polytseris! 👋  
 
-🚀 **Aspiring Software Developer** | 🎓 MSc Informatics | 🎖 Former Armed Forces  
+🚀 **Aspiring Software Developer** | 🎓 MSc Informatics |
 
 ## 🔹 About Me  
 - 🎓 **Master's Student in Computer Science** (MSc Informatics)  
@@ -19,8 +19,6 @@
 - 🔍 Passionate about problem-solving, efficiency, and innovation  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharias-polytseris/)  
-
-🚀 Let's connect and build something great!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharias-polytseris/)
 
 
