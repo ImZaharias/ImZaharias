@@ -11,7 +11,7 @@
 - 📊 **Currently working as a Data Entry Agent**  
 
 ## 🔹 Tech Stack & Tools  
-- **Languages & Frameworks:** Java, Spring Boot, JavaScript, Node.js, React  
+- **Languages & Frameworks:** Python, Django, Java, Spring Boot, HTML, CSS, JavaScript, React, Node.js
 - **Development & Testing Tools:** Postman, Git, Selenium  
 
 ## 🔹 Learning & Goals  
