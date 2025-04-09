@@ -2,21 +2,27 @@
 
 # Hi, I'm Zacharias Polytseris! 👋  
 
-🚀 **Aspiring Software Developer** | 🎓 MSc Informatics |
+🚀 **Junior Salesforce Developer** | 🎓 MSc Informatics Student  
 
 ## 🔹 About Me  
-- 🎓 **Master's Student in Computer Science** (MSc Informatics)  
-- 🎓 **Bachelor's Degree in Forestry & Natural Environment Management**  
-- 💼 **Background:** Former Army NCO, now transitioning into tech  
-- 📊 **Currently working as a Data Entry Agent**  
+- 🧠 Passionate about learning and growing in the Salesforce ecosystem  
+- 🎓 Currently studying for my **MSc in Informatics** at the University of Piraeus  
+- 🪖 Former **Army Special Forces NCO** with 7 years of service  
+- 📊 Worked as a **Data Entry Agent** — now transitioning into a Salesforce career  
 
 ## 🔹 Tech Stack & Tools  
-- **Languages & Frameworks:** Python, Django, Java, Spring Boot, HTML, CSS, JavaScript, React, Node.js
-- **Development & Testing Tools:** Postman, Git, Selenium  
 
-## 🔹 Learning & Goals  
-- 📚 **Expanding expertise** in software development and testing  
-- 🔍 Passionate about problem-solving, efficiency, and innovation  
+### Salesforce Ecosystem  
+- **Core Languages:** Apex, SOQL  
+- **UI Development:** Lightning Web Components (LWC), HTML, CSS  
+- **Essential Tools:** Salesforce CLI, Developer Console, Setup UI  
+- **Platform Features:** Custom Objects, Flows, Validation Rules, Triggers  
+
+### Currently Learning  
+- Apex Triggers & Asynchronous Apex  
+- SOQL Queries & Data Modeling  
+- Lightning Web Components Communication  
+- Apex Testing & Debugging Tools  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharias-polytseris/)
