@@ -2,7 +2,7 @@
 
 # Hi, I'm Zacharias Polytseris! 👋  
 
-🚀 **Junior Salesforce Developer** | 🎓 MSc Informatics Student  
+🚀 **Aspiring Junior Salesforce Developer** | 🎓 MSc Informatics Student  
 
 ## 🔹 About Me  
 - 🧠 Passionate about learning and growing in the Salesforce ecosystem  
