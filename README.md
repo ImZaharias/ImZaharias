@@ -9,7 +9,8 @@
 ## 🌱 A Bit About Me  
 
 - Always curious and hungry to learn new things — especially in the Salesforce world  
-- Currently diving deep into my **MSc in Informatics** at the University of Piraeus  
+- Currently diving deep into my **MSc in Informatics** at the University of Piraeus
+- Completed the **Coding Factory**, a 6-month software development bootcamp by AUEB
 - Spent 7 years in the **Special Forces** — now channeling that focus into tech  
 - Worked in **Data Entry** — and now making the leap into software development  
 - Love building, solving problems, and pushing myself every day  
