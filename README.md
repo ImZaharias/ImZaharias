@@ -8,12 +8,12 @@
 
 ## 🌱 A Bit About Me  
 
-- Always looking to grow and level up — especially when it comes to learning and building in tech  
+- Always looking to grow and level up — especially when it comes to learning and building in tech 
 - Currently diving deep into my **MSc in Informatics** at the University of Piraeus
 - Completed the **Coding Factory**, a 6-month software development bootcamp by AUEB
 - Spent 7 years in the **Special Forces** — now using that discipline to break into tech
-- Worked in **Data Entry Agent** — and now making the leap into software development 
-- I enjoy building things, solving problems, and getting better every day  
+- Worked as a **Data Entry Agent** at eFood — and now making the leap into software development
+- I enjoy building things, solving problems, and getting better every day
 
 ---
 
