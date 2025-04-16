@@ -2,7 +2,7 @@
 
 # Hey there! I'm Zacharias 👋  
 
-🚀 Aspiring Salesforce Developer | 🎓 MSc Informatics Student @ UNIPI | 🪖 Ex-Special Forces guy turning techie  
+🚀 Aspiring Salesforce Developer | 🎓 MSc Informatics Student @ UNIPI
 
 ---
 
