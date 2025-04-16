@@ -2,18 +2,18 @@
 
 # Hey there! I'm Zacharias 👋  
 
-🚀 Aspiring Salesforce Developer | 🎓 MSc Informatics Student @ UNIPI
+🚀 Aspiring Salesforce Developer
 
 ---
 
 ## 🌱 A Bit About Me  
 
-- Always curious and hungry to learn new things — especially in the Salesforce world  
+- Always looking to grow and level up — especially when it comes to learning and building in tech  
 - Currently diving deep into my **MSc in Informatics** at the University of Piraeus
 - Completed the **Coding Factory**, a 6-month software development bootcamp by AUEB
-- Spent 7 years in the **Special Forces** — now channeling that focus into tech  
-- Worked in **Data Entry** — and now making the leap into software development  
-- Love building, solving problems, and pushing myself every day  
+- Spent 7 years in the **Special Forces** — now using that discipline to break into tech
+- Worked in **Data Entry Agent** — and now making the leap into software development 
+- I enjoy building things, solving problems, and getting better every day  
 
 ---
 
