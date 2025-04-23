@@ -11,7 +11,7 @@
 - Always looking to grow and level up — especially when it comes to learning and building in tech 
 - Currently diving deep into my **MSc in Informatics** at the University of Piraeus
 - Completed the **Coding Factory**, a 6-month software development bootcamp by AUEB
-- Spent 7 years in the **Special Forces** — now using that discipline to break into tech
+- Spent 7 years in the Greek **Special Forces** — now using that discipline to break into tech
 - Worked as a **Data Entry Agent** at eFood — and now making the leap into software development
 - I enjoy building things, solving problems, and getting better every day
 
@@ -21,7 +21,7 @@
 
 ### Salesforce Toolkit
 - **Languages:** Apex, SOQL  
-- **Frontend:** LWC (Lightning Web Components), HTML, CSS  
+- **Frontend:** LWC (Lightning Web Components), HTML, CSS, JS
 - **Tools:** Salesforce CLI, Developer Console, Setup UI  
 - **Cool stuff:** Custom Objects, Flows, Validation Rules, Triggers  
 
