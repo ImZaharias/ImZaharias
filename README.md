@@ -2,7 +2,7 @@
 
 # Hey there! I'm Zacharias 👋  
 
-🚀 Aspiring Salesforce Developer
+🚀 Salesforce Developer
 
 ---
 
