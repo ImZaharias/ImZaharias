@@ -8,13 +8,13 @@
 
 ## 🌱 About Me  
 
-- Salesforce Developer at Deloitte, focusing on Apex, Flows, and data management  
-- Currently pursuing my **MSc in Informatics** at the University of Piraeus  
-- Graduate of the **Coding Factory**, a 6-month software development bootcamp by AUEB  
-- BSc Forestry (TEI of Central Greece) – academic background that shaped my analytical skills  
-- 6 years in the Greek Armed Forces – discipline, teamwork, adaptability  
-- Previously worked as a **Data Entry Agent** at eFood — now building my career in tech  
-- I enjoy building things, solving problems, and improving every day  
+- 🌿 **BSc Forestry** (TEI of Central Greece) – my first academic path  
+- 🎖 **6 years in the Greek Armed Forces (Special Forces)** – discipline, teamwork, adaptability  
+- 🎓 Transitioned into tech through the **Coding Factory bootcamp (AUEB)** and my ongoing **MSc in Informatics (UniPi)**  
+- 💼 Worked as a **Data Entry Agent at eFood** – applying attention to detail and data management  
+- 💻 Now a **Salesforce Developer at Deloitte** – working on an internal support project, focusing on Apex, Flows, and data management  
+- 🚀 Passionate about building solutions, solving problems, and continuous learning  
+
 
 ---
 
