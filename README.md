@@ -2,43 +2,44 @@
 
 # Hey there! I'm Zacharias 👋  
 
-🚀 Salesforce Developer
+🚀 Salesforce Developer @ Deloitte | MSc Informatics Student (UniPi) | Salesforce PD1 Certified  
 
 ---
 
-## 🌱 A Bit About Me  
+## 🌱 About Me  
 
-- Always looking to grow and level up — especially when it comes to learning and building in tech 
-- Currently diving deep into my **MSc in Informatics** at the University of Piraeus
-- Completed the **Coding Factory**, a 6-month software development bootcamp by AUEB
-- Spent 6 years in the Greek Armed Forces — now using that discipline to break into tech
-- Worked as a **Data Entry Agent** at eFood — and now making the leap into software development
-- I enjoy building things, solving problems, and getting better every day
-
----
-
-## 🛠️ What I’m Working With  
-
-### Salesforce Toolkit
-- **Languages:** Apex, SOQL  
-- **Frontend:** LWC (Lightning Web Components), HTML, CSS, JS
-- **Tools:** Salesforce CLI, Developer Console, Setup UI  
-- **Cool stuff:** Custom Objects, Flows, Validation Rules, Triggers  
+- Salesforce Developer at Deloitte, focusing on Apex, Flows, and data management  
+- Currently pursuing my **MSc in Informatics** at the University of Piraeus  
+- Graduate of the **Coding Factory**, a 6-month software development bootcamp by AUEB  
+- BSc Forestry (TEI of Central Greece) – academic background that shaped my analytical skills  
+- 6 years in the Greek Armed Forces – discipline, teamwork, adaptability  
+- Previously worked as a **Data Entry Agent** at eFood — now building my career in tech  
+- I enjoy building things, solving problems, and improving every day  
 
 ---
 
-## 📚 What I’m Learning Right Now  
+## 🛠️ Tech Stack  
+
+- **Salesforce Toolkit:** Apex, SOQL, Flows, Validation Rules, Triggers  
+- **Frontend:** LWC (Lightning Web Components), HTML, CSS, JS  
+- **Tools:** Salesforce CLI, Developer Console, Setup UI, Git  
+
+---
+
+## 📚 Currently Learning  
 
 - Async Apex & Triggers  
-- SOQL & Data Modeling  
+- Advanced SOQL & Data Modeling  
 - LWC Communication (events, props, etc.)  
-- Testing & Debugging Apex  
+- Testing & Debugging in Salesforce  
 
 ---
 
 ## 🚧 Side Projects  
 
-- **Reminder System** → a simple Salesforce app to remind me about stuff by sending a text to my phone (coming soon 📱)
+- **AnswerTrackerApp** – real-time quiz accuracy tracking app  
+- **ExpenseTrackerApp** – Java desktop app for managing personal finances  
+- **Portfolio Website** – showcasing projects and skills  
 
 ---
 
@@ -49,6 +50,7 @@
 ---
 
 _Thanks for stopping by — always happy to connect, learn, and build cool stuff together!_
+
 
 
 
