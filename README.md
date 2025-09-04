@@ -18,20 +18,19 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
+- Apex, SOQL, Flows, Validation Rules, Triggers  
+- Lightning Web Components (LWC), HTML, CSS, JS  
+- Salesforce CLI, Developer Console, Git  
 
-- **Salesforce Toolkit:** Apex, SOQL, Flows, Validation Rules, Triggers  
-- **Frontend:** LWC (Lightning Web Components), HTML, CSS, JS  
-- **Tools:** Salesforce CLI, Developer Console, Setup UI, Git  
+## 💼 Current Role
+**Salesforce Developer @ Deloitte**  
+- Work on Salesforce orgs 
+- Develop Apex & Flows, manage data, troubleshoot integrations  
+- Align Accounts, Opportunities, and Line Items across systems  
 
----
-
-## 📚 Currently Learning  
-
-- Async Apex & Triggers  
-- Advanced SOQL & Data Modeling  
-- LWC Communication (events, props, etc.)  
-- Testing & Debugging in Salesforce  
+## 📚 Learning
+Async Apex • Advanced SOQL • LWC Communication • Testing & Debugging  
 
 ---
 
