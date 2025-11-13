@@ -1,33 +1,35 @@
 ![My Background](https://github.com/ImZaharias/ImZaharias/blob/main/background2.jpg)
 
-# Hey there! I'm Zacharias 👋  
+# Hey there! I'm Zacharias 👋
 
-🚀 Salesforce Developer @ Deloitte | MSc Informatics Student (UniPi) | Salesforce PD1 Certified  
+🚀 Salesforce Application Engineer at Deloitte Digital | MSc Informatics Student (UniPi) | Salesforce PD1 Certified
 
 ---
 
-## 🌱 About Me  
+## 🌱 About Me
 
-- 🌿 **BSc Forestry** (TEI of Central Greece) – my first academic path  
-- 🎖 **6 years in the Greek Special Forces** – discipline, teamwork, adaptability  
+- 🌿 **BSc Forestry** (TEI of Central Greece) – my first academic path
+- 🎖 **6 years in the Greek Special Forces** – discipline, resilience, teamwork, adaptability
 - 🎓 Transitioned into tech through the **Coding Factory bootcamp (AUEB)** and my ongoing **MSc in Informatics (UniPi)**  
-- 💼 Worked as a **Data Entry Agent at eFood** – applying attention to detail and data management  
-- 💻 Now a **Salesforce Developer at Deloitte** – working on an internal support project, focusing on Apex, Flows, and data management  
-- 🚀 Passionate about building solutions, solving problems, and continuous learning  
-
+- 💼 Worked as a **Data Entry Agent at eFood** – building strong attention to detail and data-handling skills
+- 💻 Now a **Salesforce Application Engineer at Deloitte Digital** – working on an internal support project focused on flows,
+      configurations, troubleshooting, deployments, and data management (with occasional Apex when needed)
+- 🚀 Passionate about solving problems, building reliable solutions, and constantly improving my technical skills
 
 ---
 
 ## 🛠️ Tech Stack
-- Apex, SOQL, Flows, Validation Rules, Triggers  
-- Lightning Web Components (LWC), HTML, CSS, JS  
-- Salesforce CLI, Developer Console, Git  
+- Apex, SOQL, Flows, Validation Rules, Triggers
+- Lightning Web Components (LWC) basics, HTML, CSS, JS
+- Salesforce CLI, Developer Console, Git
 
 ## 💼 Current Role
-**Salesforce Developer @ Deloitte**  
-- Work on Salesforce orgs 
-- Develop Apex & Flows, manage data, troubleshoot integrations  
-- Align Accounts, Opportunities, and Line Items across systems  
+** Salesforce Application Engineer at Deloitte Digital**
+- Maintain and support Salesforce orgs (L2/L3 issue resolution)
+- Implement Flows, configurations, and occasional Apex where needed
+- Troubleshoot integrations and ensure data alignment across Accounts, Opportunities, and Line Items
+- Manage deployments, sandbox refreshes, and environment tasks
+ 
 
 ## 📚 Learning
 Async Apex • Advanced SOQL • LWC Communication • Testing & Debugging  
