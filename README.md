@@ -38,9 +38,17 @@ Async Apex • Advanced SOQL • LWC Communication • Testing & Debugging
 
 ## 🚧 Side Projects  
 
-- **AnswerTrackerApp** – real-time quiz accuracy tracking app  
-- **ExpenseTrackerApp** – Java desktop app for managing personal finances  
-- **Portfolio Website** – showcasing projects and skills  
+- **Portfolio Website** – showcasing projects and skills
+- **E-Commerce-Store** – AI-generated image e-commerce platform
+- **ExpenseTrackerApp** – Java desktop app for managing personal finances
+- **HolyPolyGames** – game-related project
+- **AnswerTrackerApp** – real-time quiz accuracy tracking app
+- **Mock-Exam-Fundamentals-OOP** – mock exams for fundamentals & OOP in multiple languages
+- **Salesforce-Platform-Developer-I-Mock-Exam** – mock test set for the Salesforce PD-I certification 
+- **Smart-Camping** – C# project for smart camping functionality/tools
+- **Greekbeaches** – C# project related to Greek beach information/features
+- **Esport_Shop** – HTML-based e-commerce layout for an e-sports shop
+- **atropos_ai_v3** – Python-based AI/automation project
 
 ---
 
