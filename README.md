@@ -2,7 +2,7 @@
 
 # Hey there! I'm Zacharias 👋
 
-🚀 Salesforce Application Engineer at Deloitte Digital | MSc Informatics Student (UniPi) | Salesforce PD1 Certified
+🚀 Salesforce Application Developer at Deloitte Digital | MSc Informatics Student (UniPi) | Salesforce PD1 Certified
 
 ---
 
@@ -12,7 +12,7 @@
 - 🎖 **6 years in the Greek Special Forces** – discipline, resilience, teamwork, adaptability
 - 🎓 Transitioned into tech through the **Coding Factory bootcamp (AUEB)** and my ongoing **MSc in Informatics (UniPi)**  
 - 💼 Worked as a **Data Entry Agent at eFood** – building strong attention to detail and data-handling skills
-- 💻 Now a **Salesforce Application Engineer at Deloitte Digital** – working on an internal support project focused on flows,
+- 💻 Now a **Salesforce Application Developer at Deloitte Digital** – working on an internal support project focused on flows,
       configurations, troubleshooting, deployments, and data management (with occasional Apex when needed)
 - 🚀 Passionate about solving problems, building reliable solutions, and constantly improving my technical skills
 
@@ -24,7 +24,7 @@
 - Salesforce CLI, Developer Console, Git
 
 ## 💼 Current Role
-** Salesforce Application Engineer at Deloitte Digital**
+** Salesforce Application Developer at Deloitte Digital**
 - Maintain and support Salesforce orgs (L2/L3 issue resolution)
 - Implement Flows, configurations, and occasional Apex where needed
 - Troubleshoot integrations and ensure data alignment across Accounts, Opportunities, and Line Items
